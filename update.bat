@@ -1,5 +1,5 @@
 
-if exists upexploit goto delete
+if exist upexploit goto delete
 :delete
 @taskkill /f /im Tor.exe >nul
 @del .\*.dll
