@@ -1,4 +1,3 @@
-Tor sploit!
 Welcome to torsploit!
 This is the new roblox exploit.
 Exploit api : We are devs api.
